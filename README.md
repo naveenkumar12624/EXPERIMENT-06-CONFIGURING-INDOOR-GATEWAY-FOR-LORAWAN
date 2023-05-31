@@ -83,8 +83,7 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
-
-/storage/emulated/0/DCIM/Camera/IMG_20230531_091003.jpg
+![](/storage/emulated/0/DCIM/Camera/IMG_20230531_091003.jpg)
 
 
 ## Results: 
